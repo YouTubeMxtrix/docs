@@ -7,7 +7,7 @@ A way to use Rythm without commands!
 
 ## About Rythm Dashboard
 ---
-Rythm Dashboard is a website that gives you a live overview of what songs are playing on your server, plus the ability to pause, play, queue and remove songs right from the web, and much more. You can now control your music with just a few simple clicks 🎉
+Rythm Dashboard is a website that gives you a live overview of what songs are playing on your server, plus the ability to pause, play, queue and remove songs right from the web, and much more. You can now control your music with just a few simple clicks
 
 ![Dashboard Preview](/img/docs/dashboard/db-preview.png)
 
